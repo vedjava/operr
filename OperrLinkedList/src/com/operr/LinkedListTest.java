@@ -1,7 +1,9 @@
 package com.operr;
 
 import com.operr.list.LinkedList;
-
+/**
+ * Test class to custom singly linked list
+ * */
 public class LinkedListTest {
 	
 	public static void main(String[] args) {
